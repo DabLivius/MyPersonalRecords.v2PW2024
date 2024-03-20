@@ -1,4 +1,4 @@
-# MyPRsv2
+# MyPR's.v2
 My PR's 2.0 es la version remodelada y mejorada de un anterior proyecto para programacion web, en vez de iniciar desde cero con otra idea, se me ocurrio tomar el proyecto viejo remodelarlo y mejorarlo. Por supuesto se quiere tener la misma idea funcional anterior, y esta vez hacer funcionar las caracteristicas que se esperaban en el anteproyecto e integrarlos con algunos mock ups propuestos. My PR's yace de las iniciales en ingles "Mis Records Personales".
 
 Esta idea nace al yo como un aficcionado al gimnasio, queria ver mi progreso de levantamiento de pesas durante un lapso de tiempo, esta idea se aplicaria en un formato establecido de algunos ejercicios por medio de CRUDS, el cual tu como usuario podrias establecer que tipos de ejercicios querias ver el progreso y lo relacionado a dichas marcas que has llegado y se veria reflejada en una grafica y/o una tabla, de este manera puedes tener un sentido de como es tu desempeño durante cada entrenamiento.
